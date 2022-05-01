@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-training/static/css/main.0912df5a.css",
+    "main.js": "/card-training/static/js/main.06d662e9.js",
+    "index.html": "/card-training/index.html",
+    "main.0912df5a.css.map": "/card-training/static/css/main.0912df5a.css.map",
+    "main.06d662e9.js.map": "/card-training/static/js/main.06d662e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0912df5a.css",
+    "static/js/main.06d662e9.js"
+  ]
+}
